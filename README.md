@@ -1,3 +1,4 @@
+HEAD
 # SafeTrip AI — Tourist Emergency Safety & Communication Platform
 
 > **Hackathon Submission:** 24-Hour Web Development Hackathon  
@@ -244,3 +245,7 @@ Judges can test the system using the dedicated **"Demo Mode"** tab in the naviga
 ## 14. License
 
 Distributed under the MIT License. See `LICENSE` for details.
+=======
+# safetrip-ai
+AI-powered tourist safety and emergency response platform
+>>>>>>> 966fc75e57a3203ca9bc20385d8ca19e7c55c252
