@@ -1,3 +1,11 @@
+deployed link
+https://safetrip-ai-wine.vercel.app
+demo video link
+https://drive.google.com/file/d/1Zc-TWvfWZM1-wMZxWfyUJQEl8RvMUt0o/view?usp=sharing
+
+
+
+
 HEAD
 # SafeTrip AI — Tourist Emergency Safety & Communication Platform
 
